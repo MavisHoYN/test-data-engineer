@@ -50,6 +50,6 @@ Please include your considerations for scalability and data security in the give
 
 ## Submission
 
-Please fork this repository as a private repository and invite matthewlamlcjg as a collaborator for submission.  
+Please fork this repository as a private repository and invite matthewlam-lcjg as a collaborator for submission.  
 Good luck!
 
